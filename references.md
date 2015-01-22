@@ -9,3 +9,4 @@
 ## People
 
 * https://math.berkeley.edu/~lpachter/index.html
+* https://github.com/googlegenomics: [bigquery](https://cloud.google.com/bigquery/what-is-bigquery)
