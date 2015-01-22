@@ -5,3 +5,7 @@
 ## Microarrays
 
 * Tukey Median Polish: http://stats.stackexchange.com/a/8259
+
+## People
+
+* https://math.berkeley.edu/~lpachter/index.html
