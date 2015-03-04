@@ -1,8 +1,17 @@
-## GWAS tools
+## References
+
+Benchamrks
+
+* https://github.com/MicrosoftGenomics/GWAS_benchmark
+
+
+## Tools
+
+### GWASTools
 
 * http://www.maizegenetics.net/#!gapit/cmkv: GAPIT – Genome Association and Prediction Integrated Tool – is an R package that performs Genome Wide Association Study (GWAS) and genome prediction (or selection). This program uses state-of-the-art methods developed for statistical genetics, such as the unified mixed model, EMMA, the compressed mixed linear model, and P3D/EMMAx.
  
-### Install R package ncdf
+1) Install R package ncdf
 
 * http://stackoverflow.com/questions/17028465/installation-of-package-ncdf-fails-due-to-missing-header-although-its-there
 * http://cran.fhcrc.org/web/packages/ncdf/INSTALL
@@ -13,7 +22,7 @@
 4. R> install.packages("ncdf")
 
 
-### Install R package gdsfmt
+2) Install R package gdsfmt
 
 https://github.com/zhengxwen/gdsfmt
 
