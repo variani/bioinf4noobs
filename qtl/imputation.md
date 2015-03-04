@@ -12,5 +12,6 @@ Papers
 
 Mendel-Impute: based on Matrix completetion, fast
 
+* Original paper http://genome.cshlp.org/content/23/3/509.long
 * Talk http://www.slideshare.net/echi99/genotype-imputation-via-matrix-completion-15496007
 * GPU version http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3634317/
