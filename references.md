@@ -12,3 +12,4 @@
 * https://github.com/googlegenomics: [bigquery](https://cloud.google.com/bigquery/what-is-bigquery)
 * https://sites.google.com/site/bjarnijvilhjalmsson/publications & http://www.hsph.harvard.edu/alkes-price/software/: variance component models, GWAS, [mixmogam](https://github.com/bvilhjal/mixmogam)
 * http://stephenslab.uchicago.edu/: GEMMA
+* http://research.microsoft.com/en-us/um/redmond/projects/MSCompBio/: FastLMM
