@@ -5,6 +5,11 @@ Lectures
 
 * http://people.musc.edu/~eok/teaching/statgen2013/StatGenLecture9.pdf
 
+Logistic regression
+
+* Tutorial with R code: http://ww2.coastal.edu/kingw/statistics/R-tutorials/logistic.html
+* Tutorial at UCLA: http://www.ats.ucla.edu/stat/r/dae/logit.htm
+
 ## Tools
 
 * http://arxiv.org/abs/1409.2448
