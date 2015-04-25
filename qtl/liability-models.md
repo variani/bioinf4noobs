@@ -1,0 +1,17 @@
+
+## References
+
+Lectures
+
+* http://people.musc.edu/~eok/teaching/statgen2013/StatGenLecture9.pdf
+
+## Tools
+
+* http://arxiv.org/abs/1409.2448
+* http://www.complextraitgenomics.com/software/gcta/index.html
+
+## Liability models
+
+[Accurate Liability Estimation Substantially Improves Power in Ascertained Case Control Studies](http://arxiv.org/abs/1409.2448)
+
+* See reference in Supp Note 2, when commenting misc. issues about the liability model & gwas
