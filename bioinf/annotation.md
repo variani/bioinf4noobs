@@ -1,3 +1,15 @@
+## Genome Browsers
+
+* [UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgTracks?hgsid=424562525_yNMUAd14eoZBR0qwjQZ8xVVixHi2)
+
+### Tools
+
+[bioruby-ucsc-api](https://github.com/misshie/bioruby-ucsc-api)
+
+* [An example](https://www.biostars.org/p/8920/#8928)
+* A tutorial http://hackersome.com/p/Diego-F-Pereira/bioruby-ucsc-api
+* MySQL connection server proble
+      * http://redmine.soe.ucsc.edu/forum/index.php?t=msg&goto=13723&S=85d8e65f80fc3cbbd62d680143c21982
 
 ## Annotation tools
 
