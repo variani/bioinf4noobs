@@ -11,6 +11,20 @@
 * MySQL connection server proble
       * http://redmine.soe.ucsc.edu/forum/index.php?t=msg&goto=13723&S=85d8e65f80fc3cbbd62d680143c21982
 
+Plots
+
+* http://genome.sph.umich.edu/wiki/LocusZoom_Standalone
+
+#### R packages
+
+* http://www.bioconductor.org/packages/release/bioc/html/biomaRt.html
+
+Plots
+* mapsnp: https://github.com/csuzfq/mapsnp_pkg
+     * Paper with plots: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123609#sec011
+* GenomeGraphs: http://bioconductor.org/packages/2.3/bioc/html/GenomeGraphs.html
+
+
 ## Annotation tools
 
 * SnpEff http://snpeff.sourceforge.net/index.html
