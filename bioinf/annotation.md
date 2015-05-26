@@ -38,3 +38,7 @@ Plots
 ## List of genes
 
 * https://www.biostars.org/p/81738/#81745
+
+## Gusev et al, 2014
+
+* Variante type https://data.broadinstitute.org/alkesgroup/ANNOTATIONS/ via http://www.hsph.harvard.edu/alkes-price/software/
