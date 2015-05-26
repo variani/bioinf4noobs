@@ -1,3 +1,9 @@
+## Basics
+
+* [Man page](http://rpackages.ianhowson.com/bioc/GWASTools/man/GenotypeData-class.html) for GenotypeData class: 
+  for examples, `geno <- getGenotype(genoData, snp=c(100,10), scan=c(1,5))`.
+* [Man page)(http://rpackages.ianhowson.com/bioc/GWASTools/man/getVariable.html) for `getVariable`.
+
 ## Issues
 
 ### Parallel computing
