@@ -2,6 +2,10 @@
 
 * [UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgTracks?hgsid=424562525_yNMUAd14eoZBR0qwjQZ8xVVixHi2)
 
+* Description of [snp142 table](http://ucscbrowser.genap.ca/cgi-bin/hgTables?hgsid=1186698_UHMlYABco6ZL3qYUtaaB41BV859c&hgta_doSchemaDb=hg19&hgta_doSchemaTable=snp142) (searched by googling)
+* [List of data bases](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/database/)
+* RMySQL [R code](http://www.gettinggeneticsdone.com/2011/12/query-mysql-database-from-r-using.html) to access UCSC data base
+
 ### Tools
 
 [bioruby-ucsc-api](https://github.com/misshie/bioruby-ucsc-api)
