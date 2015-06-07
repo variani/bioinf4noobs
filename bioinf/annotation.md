@@ -1,3 +1,9 @@
+## References
+
+Discussions
+
+* https://www.biostars.org/p/1332/
+
 ## Genome Browsers
 
 * [UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgTracks?hgsid=424562525_yNMUAd14eoZBR0qwjQZ8xVVixHi2)
