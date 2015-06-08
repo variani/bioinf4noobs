@@ -1,6 +1,6 @@
 ## Tools
 
-[warpedlmm](https://github.com/PMBio/warpedLMM/blob/master/warpedlmm/)
+1) [warpedlmm](https://github.com/PMBio/warpedLMM/blob/master/warpedlmm/)
 
 * Specially designed for exploring trait transformations (based on FaST-LMM)
 * Paper http://arxiv.org/pdf/1402.5447.pdf
@@ -11,9 +11,18 @@
       * http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/nichols/research/neuro-stat/slides_habib.pdf
       * http://www.stage.utoronto.ca/wp-content/uploads/2014/10/MH_ASHG-2014-meeting-highlights.pdf
 
-[limix](https://github.com/PMBio/limix)
+2) [limix](https://github.com/PMBio/limix)
 
 * Tutorials https://github.com/PMBio/limix-tutorials
+
+3) GCTA
+
+http://cnsgenomics.com/software/gcta/
+
+Issues
+
+* Usage in the family data: http://gcta.freeforums.net/thread/17/variance-explained-family-data
+          * Answer: See [article](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003520)
 
 ## Extensions
 
