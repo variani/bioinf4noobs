@@ -3,6 +3,7 @@
 Discussions
 
 * https://www.biostars.org/p/1332/
+* https://www.biostars.org/p/91821/
 
 ## Genome Browsers
 
