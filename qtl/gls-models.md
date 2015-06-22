@@ -7,6 +7,8 @@ Tutorials
 Packages in R
 
 * http://stackoverflow.com/questions/1395102/gls-vs-lme-in-the-nlme-package
+* nlme R package
+    * new constructs http://ms.mcmaster.ca/~bolker/R/misc/newcorstruct.R
 
 Discussions on test statistics
 
