@@ -6,6 +6,12 @@ Papers
 
 ## Compute haplotypes
 
+Basics
+
+* https://www.biostars.org/p/7846/
+      * Phased data are ordered along one chromosome and so from these data you know the haplotype. Unphased data are
+        simply the genotypes without regard to which one of the pair of chromosomes holds that allele.
+
 Discussions
 
 * https://www.biostars.org/p/66271/
