@@ -23,3 +23,11 @@ Software
 * http://omictools.com/germline-s1857.html
 * http://sourceforge.net/projects/ibdld/?source=typ_redirect
     * http://www.ncbi.nlm.nih.gov/pubmed/21769932
+
+## Data foramt
+
+### IBD segments
+
+* Output from GERMLINE: http://www1.cs.columbia.edu/~gusev/germline/
+* Output from plink (which is similar to GERMLINE): [Segmental sharing: detection of extended haplotypes shared IBD](http://pngu.mgh.harvard.edu/~purcell/plink/ibdibs.shtml#segments)
+* 
