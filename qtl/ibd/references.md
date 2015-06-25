@@ -18,6 +18,8 @@ Discussions
 
 Software
 
+* GERMLINE
+     * https://github.com/23andMe/ibd
 * https://faculty.washington.edu/browning/beagle/b4.html
     * http://omictools.com/beagle-fastibd-s1856.html
 * http://omictools.com/germline-s1857.html
