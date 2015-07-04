@@ -14,6 +14,8 @@ Conditional logistic regression
 
 * Talk http://www.slideshare.net/SatishGupta4/ihcc-logistic-regression
     * Reference to [epicalc](http://cran.r-project.org/web/packages/epicalc/index.html) package
+* Paper (Conditional versus unconditional logistic regression in the medical literature)(http://www.ncbi.nlm.nih.gov/pubmed/12589877)
+
 
 ## Tools
 
