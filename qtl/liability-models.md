@@ -10,6 +10,11 @@ Logistic regression
 * Tutorial with R code: http://ww2.coastal.edu/kingw/statistics/R-tutorials/logistic.html
 * Tutorial at UCLA: http://www.ats.ucla.edu/stat/r/dae/logit.htm
 
+Conditional logistic regression
+
+* Talk http://www.slideshare.net/SatishGupta4/ihcc-logistic-regression
+    * Reference to [epicalc](http://cran.r-project.org/web/packages/epicalc/index.html) package
+
 ## Tools
 
 * http://arxiv.org/abs/1409.2448
