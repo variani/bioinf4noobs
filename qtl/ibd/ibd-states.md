@@ -7,3 +7,9 @@ Merlin tutorial
 * Haplotypes http://csg.sph.umich.edu/abecasis/Merlin/tour/haplotyping.html
 
 Tip: download examples from Merlin and explore content of input and ouput files
+
+## IBD segments
+
+Tools
+
+* http://bioinf.jku.at/software/hapFabia/
