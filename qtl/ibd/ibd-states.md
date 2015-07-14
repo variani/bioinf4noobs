@@ -13,3 +13,4 @@ Tip: download examples from Merlin and explore content of input and ouput files
 Tools
 
 * http://bioinf.jku.at/software/hapFabia/
+* http://faculty.washington.edu/browning/beagle/b4.html
