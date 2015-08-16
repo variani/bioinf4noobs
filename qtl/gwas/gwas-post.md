@@ -9,3 +9,9 @@ Tools
 
 * http://www.inside-r.org/packages/cran/postgwas/docs/regionalplot
 * https://github.com/cannin/snp_plotter/blob/master/snp.plotter/inst/doc/using_snp_plotter.Rmd
+
+## Enrichment
+
+Blogs
+
+* http://www.r-bloggers.com/functional-enrichment-for-gtex-paper/
