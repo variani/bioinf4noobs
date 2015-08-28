@@ -15,3 +15,4 @@ Tools
 Blogs
 
 * http://www.r-bloggers.com/functional-enrichment-for-gtex-paper/
+    * http://ygc.name/2015/08/21/functional-enrichment-analysis-with-ngs-data/
