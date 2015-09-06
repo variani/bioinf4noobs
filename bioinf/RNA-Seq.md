@@ -7,3 +7,7 @@ Reviews
 Tutotials
 
 * http://www.gettinggeneticsdone.com/2014/11/rna-seq-data-analysis-course-materials.html
+
+## Data analysis pipeline
+
+![](https://pbs.twimg.com/media/CDw34KtWYAAXx-K.png)
