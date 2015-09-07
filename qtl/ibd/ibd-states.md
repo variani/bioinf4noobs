@@ -1,7 +1,7 @@
 ## Tools
 
-* Merlin
-* IBDLD
+* [Merlin](#merlin)
+* [IBDLD](#ibdld)
 
 IBD segments
 
