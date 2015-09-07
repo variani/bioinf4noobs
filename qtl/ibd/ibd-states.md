@@ -1,3 +1,13 @@
+## Tools
+
+* Merlin
+* IBDLD
+
+IBD segments
+
+* http://bioinf.jku.at/software/hapFabia/
+* http://faculty.washington.edu/browning/beagle/b4.html
+
 ## Merlin
 
 Merlin tutorial
@@ -8,9 +18,4 @@ Merlin tutorial
 
 Tip: download examples from Merlin and explore content of input and ouput files
 
-## IBD segments
-
-Tools
-
-* http://bioinf.jku.at/software/hapFabia/
-* http://faculty.washington.edu/browning/beagle/b4.html
+## IBDLD
