@@ -12,3 +12,8 @@ Tutorials
 Thesises
 
 * [Bayesian and Frequentist Methods and Analyses of Genome-Wide Association Studies (pdf)](http://ora.ox.ac.uk/objects/uuid:8f89593e-a4ab-4df0-b297-74194be7891c/datastreams/THESIS01)
+
+Tools
+
+* BGLR: Bayesian Generalized Linear Regression https://cran.r-project.org/web/packages/BGLR/
+    * paper [pdf](https://cran.r-project.org/web/packages/BGLR/vignettes/BGLR-extdoc.pdf)
