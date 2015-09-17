@@ -7,6 +7,7 @@ Papers
 ## In pedigrees
 
 * Abecasis lab paper http://www.nature.com/ng/journal/v38/n9/full/ng1863.html
+* PRIMAL [paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004139)
 
 ## Tools
 
