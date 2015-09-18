@@ -28,6 +28,16 @@ install Data::UUID
 ./vegas2.config /home/andrey/tools/VEGAS2/VEGAS2database /home/andrey/tools/VEGAS2/VEGAS2scripts
 ```
 
+```
+$ ls VEGAS2database/1000GEURO/
+0kbloc  1000GEURO.extract  50kbloc
+```
+
+3) Install
+
+```
+sudo cp vegas2 /usr/local/bin/
+```
 
 
 ## Gemma
