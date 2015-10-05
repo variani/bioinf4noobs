@@ -17,3 +17,7 @@ Tools
 
 * BGLR: Bayesian Generalized Linear Regression https://cran.r-project.org/web/packages/BGLR/
     * paper [pdf](https://cran.r-project.org/web/packages/BGLR/vignettes/BGLR-extdoc.pdf)
+
+Bayes models and Imputed Genotypes
+
+* Marchini et al., A new multipoint method for genome-wide association studies by imputation of genotypes, [NatGen 2007](http://www.nature.com/ng/journal/v39/n7/full/ng2088.html)
