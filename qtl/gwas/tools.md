@@ -1,4 +1,10 @@
 
+## References
+
+Groups
+
+* Marchini's group, http://www.stats.ox.ac.uk/~marchini/software/gwas/gwas.html
+
 ## VEGAS2
 
 ### Installation
