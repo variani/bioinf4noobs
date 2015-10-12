@@ -50,6 +50,10 @@ Plots
 
 ## List of genes
 
+> How many genes in the genome?  RefSeq currently: 20,576 protein coding genes, 18,037 non-coding, 12,474 pseudogenes.  #ASHG15
+
+source: [twit #ASHG15](https://twitter.com/StevenNHart/status/651482908033683460)
+
 * https://www.biostars.org/p/81738/#81745
 
 ## Gusev et al, 2014
