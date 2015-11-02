@@ -7,3 +7,9 @@ Rakitsch et al., A Lasso multi-marker mixed model for association mapping with p
     * See [talk](http://web.stanford.edu/~boyd/papers/pdf/admm_talk.pdf), page 18 to see an application of ADMM to LASSO.
 * R packages
     * [flare](https://cran.r-project.org/web/packages/flare/)
+
+## R packages
+
+* glmmLasso at [CRAN](https://cran.r-project.org/web/packages/glmmLasso/)
+      * Paper [pdf](http://www.fm.mathematik.uni-muenchen.de/download/publications/tr108.pdf)
+* glmmixedlasso at [R-Forge](https://r-forge.r-project.org/projects/lmmlasso/)
