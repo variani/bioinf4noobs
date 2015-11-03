@@ -16,3 +16,4 @@ Blogs
 
 * http://www.r-bloggers.com/functional-enrichment-for-gtex-paper/
     * http://ygc.name/2015/08/21/functional-enrichment-analysis-with-ngs-data/
+    * Bug fix: http://ygc.name/2015/11/02/comparison-of-clusterprofiler-and-gsea-p/
