@@ -13,3 +13,4 @@ Rakitsch et al., A Lasso multi-marker mixed model for association mapping with p
 * glmmLasso at [CRAN](https://cran.r-project.org/web/packages/glmmLasso/)
       * Paper [pdf](http://www.fm.mathematik.uni-muenchen.de/download/publications/tr108.pdf)
 * glmmixedlasso at [R-Forge](https://r-forge.r-project.org/projects/lmmlasso/)
+      * Used in [paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077503) A Hierarchical Poisson Log-Normal Model for Network Inference from RNA Sequencing Data
