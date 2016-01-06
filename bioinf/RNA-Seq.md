@@ -7,6 +7,8 @@ Reviews
 Tutotials
 
 * http://www.gettinggeneticsdone.com/2014/11/rna-seq-data-analysis-course-materials.html
+* https://github.com/slowkow/snakefiles
+    * http://slowkow.com/notes/snakemake-tutorial/
 
 ## Data analysis pipeline
 
