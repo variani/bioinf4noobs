@@ -4,6 +4,10 @@ Benchamrks
 
 * https://github.com/MicrosoftGenomics/GWAS_benchmark
 
+Methodology
+
+* [Diverse convergent evidence in the genetic analysis of complex disease: coordinating omic, informatic, and experimental evidence to better identify and validate risk factors](http://www.biodatamining.org/content/7/1/10)
+
 
 ## Tools
 
