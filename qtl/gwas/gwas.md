@@ -7,6 +7,8 @@ Benchamrks
 Methodology
 
 * [Diverse convergent evidence in the genetic analysis of complex disease: coordinating omic, informatic, and experimental evidence to better identify and validate risk factors](http://www.biodatamining.org/content/7/1/10)
+* [Progress and promise in understanding the genetic basis of common diseases](http://www.ncbi.nlm.nih.gov/pubmed/26702037)
+  * [must consider](https://twitter.com/moorejh/status/681493073600233472)  "polygenic analyses...including modest effects..not individually statistically significant"
 
 
 ## Tools
