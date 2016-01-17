@@ -10,6 +10,10 @@ Tutotials
 * https://github.com/slowkow/snakefiles
     * http://slowkow.com/notes/snakemake-tutorial/
 
+Methods
+
+* http://biorxiv.org/content/early/2016/01/05/035949
+
 ## Data analysis pipeline
 
 ![](https://pbs.twimg.com/media/CDw34KtWYAAXx-K.png)
