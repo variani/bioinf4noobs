@@ -13,6 +13,8 @@ Tutotials
 Methods
 
 * http://biorxiv.org/content/early/2016/01/05/035949
+* Diff. analysis
+   * http://f1000research.com/articles/4-1521/v1
 
 ## Data analysis pipeline
 
