@@ -5,6 +5,10 @@
 * http://bioinformatics.oxfordjournals.org/content/early/2010/12/14/bioinformatics.btq688.full.pdf
 * http://stephenslab.uchicago.edu/MSpapers/Stephens2009.pdf
 
+GWAS Tools
+
+* http://www.psu.edu/dept/statgen/software/fgwas-r2.html
+
 Tutorials
 
 * [Lecture 8: p-Values, Bayes Factors and Multiple Testing](http://faculty.washington.edu/jonno/SISG-2011/lectures/JW-Lec4_2.pdf)
