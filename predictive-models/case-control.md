@@ -17,6 +17,11 @@ Probit model
 * Winbugs code http://stackoverflow.com/questions/14299157/probit-model-in-winbugs
 * Ordinal probit http://deepblue.lib.umich.edu/bitstream/handle/2027.42/89687/jaeil_1.pdf?sequence=1 (See page 24)
 
+Liability model
+
+* http://www.wikilectures.eu/index.php/Genetic_Liability,_Threshold_Model.
+* http://192.38.117.59/~kkho/undervisning/twin2014/liability-nup.pdf
+
 Bayesian analysis
 
 * https://www.researchgate.net/publication/228642778_Bayesian_Analysis_of_Case-Control_Studies
