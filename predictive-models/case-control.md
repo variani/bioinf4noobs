@@ -4,6 +4,7 @@ Reviews
 
 * http://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-11-77
 * http://www.epidemiolog.net/evolving/RelatingRiskFactorstoHealth.pdf
+* http://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models
 
 Mixed models
 
