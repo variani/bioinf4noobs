@@ -15,8 +15,11 @@ Blog posts
 
 ### Molgenis
 
-* Article [Molgenis-impute: imputation pipeline in a box](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4541731/)
 * Repository: https://github.com/molgenis/molgenis-imputation
+      * Wiki: http://www.bbmriwiki.nl/, Example of a pipeline: http://www.bbmriwiki.nl/wiki/ImputationPipeline
+* Article [Molgenis-impute: imputation pipeline in a box](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4541731/)
+* Conference proceeding: [Large scale NGS pipelines using the MOLGENIS platform: processing the Genome of the Netherlands](https://www.researchgate.net/publication/259563090_Large_scale_NGS_pipelines_using_the_MOLGENIS_platform_processing_the_Genome_of_the_Netherlands)
+      * Talk: http://www.slideshare.net/bosc2011/d02nextgenseqmolgenis
 
 Tools
 
