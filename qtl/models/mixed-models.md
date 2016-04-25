@@ -24,6 +24,11 @@ Issues
 * Usage in the family data: http://gcta.freeforums.net/thread/17/variance-explained-family-data
           * Answer: See [article](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003520)
 
+4) FAST-LMM
+
+* Implementations
+     * Jilia: https://github.com/sens/FaSTLMM.jl
+
 ## Extensions
 
 Mixed Effects Trees and Forests for Clustered Data (Mixed Trees and Forests)
