@@ -31,7 +31,23 @@ Issues
 
 ## Extensions
 
+### MERF
+
 Mixed Effects Trees and Forests for Clustered Data (Mixed Trees and Forests)
 
 * http://www2.ims.nus.edu.sg/Programs/014swclass/files/denis.pdf
     * Overview of stat. methods on clustered data analysis  http://www.jneurosci.org/content/30/32/10601.full?sid=91a1d4ff-c316-402d-a73c-b6c1733ad012
+
+Application to QTL mapping
+
+* 
+
+Implementations
+
+* Building a regression Tree with R FROM SCRATCH
+     * https://cran.r-project.org/web/packages/partykit/index.html
+          * https://cran.r-project.org/web/packages/partykit/vignettes/partykit.pdf
+          * https://cran.r-project.org/web/packages/partykit/vignettes/constparty.pdf
+* Introductory materials
+     * http://scikit-learn.org/stable/modules/tree.html
+     * http://www.stat.cmu.edu/~cshalizi/350/lectures/22/lecture-22.pdf
