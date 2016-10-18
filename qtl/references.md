@@ -1,3 +1,7 @@
+## Introduction materials
+
+* http://www.well.ox.ac.uk/dtc/Genetic%20Analysis.pdf: Eigen-trick, LMM, REML
+
 ## Opinions
 
 http://biorxiv.org/content/early/2016/02/26/041434?rss=1
