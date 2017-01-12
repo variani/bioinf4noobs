@@ -4,6 +4,10 @@ Papers
 
 * Review http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2925172/
 
+Haplotype phasing
+
+* Talk https://www.broadinstitute.org/files/shared/mia/2016-03-09_Broad_MIA_Eagle_talk.pdf
+
 ## In pedigrees
 
 * Abecasis lab paper http://www.nature.com/ng/journal/v38/n9/full/ng1863.html
