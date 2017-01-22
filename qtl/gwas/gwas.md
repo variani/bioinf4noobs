@@ -1,5 +1,9 @@
 ## References
 
+Videos
+
+* [All in the genes, or in all the genes](http://www.lshtm.ac.uk/newsevents/multimedia/inaugurallectures/2015/all_in_genes_lecture.html)
+
 Tutorials
 
 * Courses by Aulchenko http://mga.bionet.nsc.ru/~yurii/courses/
