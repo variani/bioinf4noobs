@@ -6,8 +6,20 @@ http://askubuntu.com/a/841677
 sudo apt-get install netcdf-bin
 ```
 
-R: 
+## iOS
+
+https://github.com/Homebrew/homebrew-science/issues/4639
 
 ```
-install.packages("netcdf4")
+brew reinstall hdf5 --with-fortran
+brew install netcdf --with-fortran
+```
+
+## R 
+
+```
+install.packages("ncdf4")
+
+source("https://bioconductor.org/biocLite.R")
+biocLite("GWASTools")
 ```
