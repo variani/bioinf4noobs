@@ -8,6 +8,7 @@ Discussion
 
 - [Gviz](http://www.bioconductor.org/packages/release/bioc/html/Gviz.html)
 
-Tutorials
+Material
 
-- https://mrccsc.github.io/VisualisingGenomicsData/
+- Tutorial https://mrccsc.github.io/VisualisingGenomicsData/
+- Talk by the Gviz creator https://www.bioconductor.org/help/course-materials/2012/BiocEurope2012/GvizEuropeanBioc2012.pdf
