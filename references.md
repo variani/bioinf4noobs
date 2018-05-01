@@ -1,3 +1,7 @@
+## Tutorials
+
+- [Tutorials by Computational Epigenomics Lab](http://bioinfo2.ugr.es:8080/ceUGR/tutorials/)
+
 ## Courses
 
 * [Data Analysis for Genomics (book)](http://genomicsclass.github.io/book/) by Rafa
